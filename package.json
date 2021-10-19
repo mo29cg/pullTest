@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+      "prettier": "^2.4.1"
+    },
+    "scripts": {
+    },
+    "devDependencies": {
+      "ts-node": "^10.2.1"
+    }
+  }
